@@ -1,6 +1,6 @@
 # WEB Projects
 
-## Todo List
+## [Todo List](./todo_app/)
 
 React pet project that consistis of a todo list.
 
